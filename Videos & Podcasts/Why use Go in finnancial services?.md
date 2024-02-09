@@ -1,4 +1,4 @@
-## Being Productive in Go
+# [Being Productive in Go](https://www.youtube.com/watch?v=jzQZwwkeg8Q)
 
 Bugs are less expected because the way that they're treated alongside it's call. 
 
@@ -34,7 +34,7 @@ will run in our machines and whatever server outhere.
 User key words ("go" and "channels")
 TO DO
 
-## Procedural and Polymotphism
+## Procedural and Polymorphism
 What it mean?
 
 TO DO
