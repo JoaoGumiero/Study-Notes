@@ -1,4 +1,4 @@
-##Being Productive in Go
+## Being Productive in Go
 
 Bugs are less expected because the way that they're treated alongside it's call. 
 
@@ -7,7 +7,7 @@ It's a easy language to learn, even for new devs.
 And it's a opinionated language, it basically means that you can code in different ways based on your preferences and
 skills.
 
-##Solving complex problems with Go
+## Solving complex problems with Go
 
 Basically, nowadays major projects are written in Go (Terraform, Kubernete, Openshift), and actually you can 
 use AI within your project at running time with Terraform, you can deal with a high demand of concurrency and scability
@@ -18,7 +18,7 @@ systems that need a high performance and storngly use the CPU.
 
 -> Error are returned by the functions.
 
-##Go in Finnancial Services
+## Go in Finnancial Services
 
 It's highly regulated and old market, it's dominated by oligopoly companies that don't care about innovation or technology,
 but now with the surge of fintechs, now they're concerned about thoose topics. And thoose finnancial products need to be fast,
@@ -29,12 +29,12 @@ will run in our machines and whatever server outhere.
 
 -> Built in garbage collector for memory purposes
 
-##How concurrency works?
+## How concurrency works?
 
 User key words ("go" and "channels")
 TO DO
 
-<Procedural and Polymotphism>
+## Procedural and Polymotphism
 What it mean?
 
 TO DO
