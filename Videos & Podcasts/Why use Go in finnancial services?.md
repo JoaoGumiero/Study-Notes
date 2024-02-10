@@ -20,8 +20,8 @@ systems that need a high performance and storngly use the CPU.
 
 ## Go in Finnancial Services
 
-It's highly regulated and old market, it's dominated by oligopoly companies that don't care about innovation or technology,
-but now with the surge of fintechs, now they're concerned about thoose topics. And thoose finnancial products need to be fast,
+It's a highly regulated and old market, it's dominated by oligopoly companies that don't care about innovation or technology,
+but now with the surge of fintechs, they're concerned about thoose topics. And thoose finnancial products need to be fast,
 safe, scaled and at any time. And Go provides all thoose features and advantages, so why not use it?
 
 In addition, Go compile code in the same machine language for almost every SOs, this gives us a relief for the fact that it
